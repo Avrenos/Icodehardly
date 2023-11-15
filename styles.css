@@ -546,9 +546,10 @@ figure {
     -moz-transition: scale 0.3s linear;
     -ms-transition: scale 0.3s linear;
     -o-transition: scale 0.3s linear;
+    border-radius: 2.6rem;
 
     &:hover {
-      scale: 1.1;
+      scale: 1.02;
     }
 
     & .blog-content {
